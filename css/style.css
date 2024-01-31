@@ -1,0 +1,21 @@
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  text-align: center;
+}
+
+#divCounterDisplay{
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+  font-size: 16px;
+  margin: 0 10px;
+  padding: 10px 20px;
+}
