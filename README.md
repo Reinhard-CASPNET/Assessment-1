@@ -1,7 +1,7 @@
 # CASPNET Developer Assessment 1
 > Prepared by Reinhard Pretorius
 ## Intro
-👋 Welcome potential CASPNET developer! 🚀 This assessment is designed to test your software development and problem-solving skills.
+👋 Welcome potential CASPNET Developer! 🚀 This assessment is designed to test your software development and problem-solving skills.
 
 ---
 ## Scenario
@@ -36,7 +36,7 @@ Download and install Visual Studio Code, then open the HTML, CSS and JavaScript 
 - Visual Studio Code https://code.visualstudio.com/
 
 ### Completion
-After you completed your changes please zip and email the solution to reinhard@cargoasp.net so that we can evaluate.
+After you completed your changes, please zip and email the solution to reinhard@cargoasp.net so that we can evaluate.
 
 ---
 ## Outro
